@@ -37,7 +37,7 @@ TABLE OF CONTENTS
 
 1. THE APPLICATION
 
-StrooHouse ('Licensed Application') is a piece of software created to We provide a community centre of free speech and free expression of opinions and ideas. — and customised for iOS and Android mobile devices ('Devices'). It is used to Social Networking.
+StrooHouse ('Licensed Application') is a piece of software created to provide a community centre of free speech and free expression of opinions and ideas. — and customised for iOS and Android mobile devices ('Devices'). It is used to Social Networking.
 
 Furthermore, it is used to News consumption and Advertising.
 
@@ -181,6 +181,3 @@ This Licence Agreement is governed by the laws of the United Kingdom excluding i
 16. MISCELLANEOUS
 
 16.1  If any of the terms of this agreement should be or become invalid, the validity of the remaining provisions shall not be affected. Invalid terms will be replaced by valid ones formulated in a way that will achieve the primary purpose.
-               
-16.2  Collateral agreements, changes and amendments are only valid if laid down in writing. The preceding clause can only be waived in writing.
-undefined created using Termly's undefined. 
